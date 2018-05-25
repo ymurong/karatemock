@@ -1,0 +1,8 @@
+* text=auto
+* text eol=lf
+
+*.jar binary
+*.png binary
+*.jks binary
+*.jceks binary
+
